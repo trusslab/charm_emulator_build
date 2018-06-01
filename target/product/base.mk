@@ -26,12 +26,10 @@ PRODUCT_PACKAGES += \
     android.test.runner \
     app_process \
     applypatch \
-    audioserver \
     blkid \
     bmgr \
     bugreport \
     bugreportz \
-    cameraserver \
     content \
     dnsmasq \
     dpm \
@@ -49,9 +47,6 @@ PRODUCT_PACKAGES += \
     libaudiopolicyservice \
     libaudiopolicymanager \
     libbundlewrapper \
-    libcamera_client \
-    libcameraservice \
-    libcamera2ndk \
     libdl \
     libdrmclearkeyplugin \
     libeffectproxy \
@@ -98,12 +93,6 @@ PRODUCT_PACKAGES += \
     libmediandk \
     libvulkan \
     libwifi-service \
-    media \
-    media_cmd \
-    mediadrmserver \
-    mediaserver \
-    mediacodec \
-    mediaextractor \
     monkey \
     mtpd \
     ndc \
